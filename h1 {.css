@@ -1,0 +1,32 @@
+h1 {
+    color: rgb(5, 7, 9);
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    color: rgb(1, 6, 10);
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+H3{
+    color: rgb(1, 6, 10);
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: rgb(207, 188, 224);
+}
+div{
+    background: linear-gradient(to right);
+}
+li{
+
+    color: rgb(14, 11, 11);
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+    
+   
